@@ -1,4 +1,4 @@
-# Homebrew Formulaes
+# Homebrew Formulas
 
 ## Install
 
