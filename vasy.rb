@@ -2,7 +2,7 @@ class Vasy < Formula
     desc "go to directy with aliases"
     homepage "https://github.com/boertel/vasy"
     url "https://github.com/boertel/vasy/archive/v1.0.0.tar.gz"
-    sha256 "d5280ed11788b8408f033812e8b49c250a676ac1"
+    sha256 "a7a94a08850965d08a969957793c451123685ee9fc0171177fe413b4ef97adbe"
     head "https://github.com/boertel/vasy.git"
 
     bottle :unneeded
