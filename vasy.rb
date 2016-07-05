@@ -1,8 +1,8 @@
 class Vasy < Formula
-    desc ""
+    desc "go to directy with aliases"
     homepage "https://github.com/boertel/vasy"
-    url "https://github.com/boertel/vasy/archive/latest.tar.gz"
-    sha256 "395408a3dc9c3db2b5c200b8722a13a60898c861633b99e6e250186adffd1370"
+    url "https://github.com/boertel/vasy/archive/v1.0.0.tar.gz"
+    sha256 "d5280ed11788b8408f033812e8b49c250a676ac1"
     head "https://github.com/boertel/vasy.git"
 
     bottle :unneeded
