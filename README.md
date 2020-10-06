@@ -9,5 +9,5 @@ $ brew tap boertel/tap
 
 and then install formulas like this:
 ```
-$ brew install boertel/tap/gh-deploy
+$ brew install gh-deploy
 ```
