@@ -8,6 +8,6 @@ class GhDeploy < Formula
     bottle :unneeded
 
     def install
-        bin.install gh-deploy
+        bin.install "gh-deploy"
     end
 end
