@@ -4,6 +4,7 @@ class GhDeploy < Formula
     url "https://github.com/boertel/gh-deploy/archive/v1.0.0.tar.gz"
     sha256 "6798245964a4a4a3e4b5a6667e5ea153b4fb56737d807a609cbd6321611a6b2a"
     head "https://github.com/boertel/gh-deploy.git"
+    depends_on "gh"
 
     bottle :unneeded
 
