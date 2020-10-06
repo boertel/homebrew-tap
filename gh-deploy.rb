@@ -1,4 +1,4 @@
-class Gh-deploy < Formula
+class Ghdeploy < Formula
     desc ""
     homepage "https://github.com/boertel/gh-deploy"
     url "https://github.com/boertel/gh-deploy/archive/v1.0.0.tar.gz"
