@@ -1,10 +1,9 @@
 class GhDeploy < Formula
     desc ""
     homepage "https://github.com/boertel/gh-deploy"
-    url "https://github.com/boertel/gh-deploy/archive/v1.0.0.tar.gz"
-    sha256 "6798245964a4a4a3e4b5a6667e5ea153b4fb56737d807a609cbd6321611a6b2a"
+    url "https://github.com/boertel/gh-deploy/archive/v1.0.1.tar.gz"
+    sha256 "fc6a8a33a2526fdc37a18643722c4fbe0f5c7965d54ecc7cb817ff3d5725a2a4"
     head "https://github.com/boertel/gh-deploy.git"
-    depends_on "gh"
 
     bottle :unneeded
 
