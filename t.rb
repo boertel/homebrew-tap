@@ -1,8 +1,8 @@
 class T < Formula
     desc ""
     homepage "https://github.com/boertel/t"
-    url "https://github.com/boertel/t/archive/v0.0.1.tar.gz"
-    sha256 "3cfcef011a6fb4f157d574668ac3e28b26b36af2a7410aef6858bd3ca3bf41ea"
+    url "https://github.com/boertel/t/archive/v0.1.0.tar.gz"
+    sha256 "c22d3e9cffd9ffc4ef58b3ea3fa60ed10660639b8b95bd89b04f993c50f2af7c"
     head "https://github.com/boertel/t.git"
 
     bottle :unneeded
