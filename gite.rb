@@ -1,8 +1,8 @@
 class Gite < Formula
     desc ""
     homepage "https://github.com/boertel/gite"
-    url "https://github.com/boertel/gite/archive/v1.5.1.tar.gz"
-    sha256 "ab6611f009eba20bb44a1bd214f9c34a6e03638f3309c2e09745560bf0949489"
+    url "https://github.com/boertel/gite/archive/v1.5.2.tar.gz"
+    sha256 "1c3a65d7e8fee563680101c19bbfce8be99d70c9e0b0b2da275d7140e3aba6c5"
     head "https://github.com/boertel/gite.git"
 
     bottle :unneeded
