@@ -1,8 +1,8 @@
 class Polyptyque < Formula
     desc ""
     homepage "https://github.com/boertel/polyptyque"
-    url "https://github.com/boertel/polyptyque/archive/v0.1.3.tar.gz"
-    sha256 "ca5b7e507dd13a66efac740249e595eeca9dbd72059fc147217494483b88aee1"
+    url "https://github.com/boertel/polyptyque/archive/v0.1.4.tar.gz"
+    sha256 "52a101fc837702b41354bbd40585ebb9c178cbc0444a02fcfdbf16a3c739f8e9"
     head "https://github.com/boertel/polyptyque.git"
 
     bottle :unneeded
