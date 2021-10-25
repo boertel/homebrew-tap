@@ -9,4 +9,10 @@ class Vasy < Formula
         bin.install Dir["bin/*"]
         system "./install.sh", "#{bin}"
     end
+
+    def caveats
+        <<~EOS
+            [ -f "#{opt_prefix}/vasy.sh" ] && source "#{opt_prefix}/vasy.sh" ]
+        EOS
+    end
 end
