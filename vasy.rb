@@ -7,5 +7,6 @@ class Vasy < Formula
 
     def install
         bin.install Dir["bin/*"]
+        system "./install.sh"
     end
 end
