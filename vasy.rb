@@ -1,13 +1,12 @@
-0
 class Vasy < Formula
     desc "vas-y, quick cd with aliases"
     homepage "https://github.com/boertel/vasy"
-    url "https://github.com/boertel/vasy/archive/v2.2.9.tar.gz"
-    sha256 "684e522a9334b36f97f35b3497fbfa4099828bc1f1fb702f12904a093133d06e"
+    url "https://github.com/boertel/vasy/archive/v2.2.10.tar.gz"
+    sha256 "60cdfb350b110191ae296b365b9db25952681fbbfcc27285805772c59afa5403"
     head "https://github.com/boertel/vasy.git"
 
     def install
         bin.install Dir["bin/*"]
-        system "./install.sh"
+        prefix.install "./install.sh"
     end
 end
