@@ -1,8 +1,8 @@
 class Vasy < Formula
     desc "vas-y, quick cd with aliases"
     homepage "https://github.com/boertel/vasy"
-    url "https://github.com/boertel/vasy/archive/v2.2.20.tar.gz"
-    sha256 "2e679e73bf22239479a0a04382cfc98e1bc1a30886e80fc4368a20e48ab2bb04"
+    url "https://github.com/boertel/vasy/archive/v2.2.21.tar.gz"
+    sha256 "4803bc5c8235e68a28c4989d3ff2a346290693b11eb682ca1705c4109157d97f"
     head "https://github.com/boertel/vasy.git"
 
     def install
