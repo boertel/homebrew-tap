@@ -1,13 +1,12 @@
 class Polyptyque < Formula
     desc ""
     homepage "https://github.com/boertel/polyptyque"
-    url "https://github.com/boertel/polyptyque/archive/v0.1.4.tar.gz"
-    sha256 "52a101fc837702b41354bbd40585ebb9c178cbc0444a02fcfdbf16a3c739f8e9"
+    url "https://github.com/boertel/polyptyque/archive/v0.1.5.tar.gz"
+    sha256 "082789cd02b486f5ceb0efd975e5df04d0b68ab7908ef8c7c7f27976764a6795"
     head "https://github.com/boertel/polyptyque.git"
-
-    bottle :unneeded
 
     def install
         bin.install "polyptyque"
     end
+
 end
