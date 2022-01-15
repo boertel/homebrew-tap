@@ -1,8 +1,8 @@
 class Polyptyque < Formula
     desc ""
     homepage "https://github.com/boertel/polyptyque"
-    url "https://github.com/boertel/polyptyque/archive/v0.1.6.tar.gz"
-    sha256 "3511127c719faec6a45a9f277921a63b6be4330c062ad1805ce477e7471ec82f"
+    url "https://github.com/boertel/polyptyque/archive/v0.1.7.tar.gz"
+    sha256 "adbc5a7b6b56f55bacbe8a94fef138ed5750fa45a638b86577ac3711dae39bac"
     head "https://github.com/boertel/polyptyque.git"
 
     def install
