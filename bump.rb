@@ -5,8 +5,6 @@ class Bump < Formula
     sha256 "324cf306f6bbb838f8dc0e28a66449dc766bc33c17aeb3e9b7d4ebab8dd1e519"
     head "https://github.com/boertel/bump.git"
 
-    bottle :unneeded
-
     def install
         bin.install "bump"
     end
