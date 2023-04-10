@@ -1,8 +1,8 @@
 class Gite < Formula
     desc ""
     homepage "https://github.com/boertel/gite"
-    url "https://github.com/boertel/gite/archive/v1.5.7.tar.gz"
-    sha256 "f1f77e0f0a3cded27e411f59fb9924fa0f2e1afa62ab0aaa51281fa0e0842f4a"
+    url "https://github.com/boertel/gite/archive/v1.5.8.tar.gz"
+    sha256 "b0c7327b8e6cc4cf48ea1583da3a7bf2f2213d234855d2f02db57cc65939850a"
     head "https://github.com/boertel/gite.git"
 
     def install
